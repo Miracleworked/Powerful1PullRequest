@@ -28,4 +28,6 @@ def lone_sum(a, b, c):
 print(lone_sum(1,2,3))#Out put 
 # Add the number to print and I indent some code it work 
 #I Debuge you code and I fixing some line 
+# I change some line 
+# i test out dode 
 # Tank to you Powerful1 
